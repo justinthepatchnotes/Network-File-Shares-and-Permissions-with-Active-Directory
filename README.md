@@ -138,4 +138,4 @@ A: Ensure that the user is added to the correct security group and that the shar
 <div style="border-left: 4px solid blueviolet; padding: 10px; background-color: #E6E6FA;">
 
   🎉 You’ve successfully configured network file shares with Active Directory permissions! 🎉
-</div>s
+</div>
